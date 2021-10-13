@@ -8,3 +8,13 @@ plugins:
 
 title: brdn.io
 description: A blog to capture projects and ramblings
+
+
+# Add links to the sidebar.
+menu:
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
+    url:               /docs/
+  - title:             About
+    url:               /about/
