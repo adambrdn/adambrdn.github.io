@@ -1,4 +1,10 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+
+remote_theme: hydecorp/hydejack
+# the rest from the config file as
+
+plugins:
+  - jekyll-remote-theme
 
 title: brdn.io
 description: A blog to capture projects and ramblings
