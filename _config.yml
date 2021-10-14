@@ -6,6 +6,8 @@ remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  
+accent_image:          /assets/pexels-rakicevic-nenad-1274260.jpg
 
 # Add links to the sidebar.
 menu:
@@ -13,8 +15,6 @@ menu:
     url:               /about
   - title:             Blog
     url:               /blog/
-
-
 
 paginate:      10
 paginate_path: /blog/:num/ #!!
